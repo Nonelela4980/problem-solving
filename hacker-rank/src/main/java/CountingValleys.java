@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 public class CountingValleys {
     public static int countingValleys(int steps, String path) {
         int valleys=0;
